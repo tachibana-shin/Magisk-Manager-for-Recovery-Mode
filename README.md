@@ -63,11 +63,11 @@ Features list
 
 
 ## USAGE
-
-- First time (right after installing/updating) - run `mm` or `sh /sdcard/mm` on recovery terminal.
-- Next times (while in recovery) - no need to re-flash the zip; simply run `sh /sdcard/mm` on recovery terminal.
+- Store & save the MagiskManagerForRecovery_vX_XXXXXXXXX.zip file somewhere on your phone
+- Boot into TWRP
+- Install the MagiskManagerForRecovery_vX_XXXXXXXXX.zip
+- Open up the Terminal window in TWRP & run the `mm` command to start managing your modules
 - Follow the instructions/wizard. Everything is interactive.
-- Pro tip: lazy people can try running `*/mm` instead of `sh /sdcard/mm`.
 
 
 
