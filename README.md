@@ -4,7 +4,7 @@
 
 ## LEGAL
 
-Copyright (C) 2017-2019, VR25 @ xda-developers
+Copyright (C) 2017-2020, VR25 & Rikj000 @ xda-developers
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -48,7 +48,7 @@ Features list
 
 ## PREREQUISITE
 
-- Magisk 17-19
+- Magisk 19-20
 
 
 
@@ -73,16 +73,15 @@ Features list
 
 ## LINKS
 
-- [Donate](https://paypal.me/vr25xda/)
-- [Facebook page](https://facebook.com/VR25-at-xda-developers-258150974794782/)
-- [Git repository](https://github.com/Magisk-Modules-Repo/mm)
-- [Telegram channel](https://t.me/vr25_xda/)
-- [Telegram profile](https://t.me/vr25xda/)
-- [XDA thread](https://forum.xda-developers.com/apps/magisk/module-tool-magisk-manager-recovery-mode-t3693165)
-
-
+- [New Git repository](https://github.com/Rikj000/mm)
+- [Old Git repository](https://github.com/Magisk-Modules-Repo/mm)
+- [Original XDA thread](https://forum.xda-developers.com/apps/magisk/module-tool-magisk-manager-recovery-mode-t3693165)
+- [VR25 Donate](https://paypal.me/vr25xda/)
+- [VR25 Facebook page](https://facebook.com/VR25-at-xda-developers-258150974794782/)
 
 ## LATEST CHANGES
+**2020.4.17 (202004170)**
+- Magisk 19-20 support
 
 **2019.4.4 (201904040)**
 - Complete redesign

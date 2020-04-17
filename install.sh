@@ -133,7 +133,7 @@ unset -f print
 print_modname() {
   ui_print " "
   ui_print "$name $version"
-  ui_print "Copyright (C) 2017-2019, $author"
+  ui_print "Copyright (C) 2017-2020, $author"
   ui_print "License: GPLv3+"
   ui_print " "
 }
@@ -215,12 +215,11 @@ version_info() {
   ui_print " "
 
   ui_print "  LINKS"
-  ui_print "    - Donate: paypal.me/vr25xda/"
-  ui_print "    - Facebook page: facebook.com/VR25-at-xda-developers-258150974794782/"
-  ui_print "    - Git repository: github.com/Magisk-Modules-Repo/mm/"
-  ui_print "    - Telegram channel: t.me/vr25_xda/"
-  ui_print "    - Telegram profile: t.me/vr25xda/"
-  ui_print "    - XDA thread: forum.xda-developers.com/apps/magisk/module-tool-magisk-manager-recovery-mode-t3693165/"
+  ui_print "    - New Git repository: github.com/Rikj000/mm"
+  ui_print "    - Old Git repository: github.com/Magisk-Modules-Repo/mm/"
+  ui_print "    - Original XDA thread: forum.xda-developers.com/apps/magisk/module-tool-magisk-manager-recovery-mode-t3693165/"
+  ui_print "    - VR25 Donate: paypal.me/vr25xda/"
+  ui_print "    - VR25 Facebook page: facebook.com/VR25-at-xda-developers-258150974794782/"
   ui_print " "
 
   ui_print "  USAGE"
