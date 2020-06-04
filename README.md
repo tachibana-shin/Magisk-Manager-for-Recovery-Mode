@@ -63,7 +63,7 @@ Features list
 
 
 ## USAGE
-- Store & save the MagiskManagerForRecovery_vX_XXXXXXXXX.zip file somewhere on your phone
+- Store & save the MagiskManagerForRecovery_vX_XXXXXXXXX.zip file somewhere on your phone's internal storage (not on SD or external)
 - Boot into TWRP
 - Install the MagiskManagerForRecovery_vX_XXXXXXXXX.zip
 - Open up the Terminal window in TWRP & run the `mm` command to start managing your modules
