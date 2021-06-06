@@ -4,7 +4,7 @@
 
 ## LEGAL
 
-Copyright (C) 2017-2020, VR25 & Rikj000 @ xda-developers
+Copyright (C) 2017-2021, VR25 & Rikj000 @ xda-developers
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -48,7 +48,7 @@ Features list
 
 ## PREREQUISITE
 
-- Magisk 19-20
+- Magisk v19.X - v23.X
 
 
 
@@ -80,12 +80,15 @@ Features list
 - [VR25 Facebook page](https://facebook.com/VR25-at-xda-developers-258150974794782/)
 
 ## LATEST CHANGES
+**2021.6.6**
+- Updated [README.md](https://github.com/Rikj000/mm/) since still confirmed working on **Magisk v23.X**
+
 **2020.4.17 (202004170)**
-- Magisk 19-20 support
+- **Magisk v19.X - v20.X** support
 
 **2019.4.4 (201904040)**
 - Complete redesign
-- Magisk 17-19 support (including `uninstall.sh`)
+- **Magisk v17-19** support (including `uninstall.sh`)
 - Toggle core only mode
 - Updated information (copyright, documentation, and module description)
 
@@ -96,5 +99,5 @@ Features list
 - Updated documentation
 
 **2018.7.24 (201807240)**
-- Fixed modPath detection issue (Magisk 16.6).
+- Fixed modPath detection issue on **Magisk v16.6**.
 - Updated documentation
