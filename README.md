@@ -80,7 +80,7 @@ Features list
 - [VR25 Facebook page](https://facebook.com/VR25-at-xda-developers-258150974794782/)
 
 ## LATEST CHANGES
-**2021.6.6**
+**2021.6.6 (202106060)**
 - Updated [README.md](https://github.com/Rikj000/mm/) since still confirmed working on **Magisk v23.X**
 
 **2020.4.17 (202004170)**
